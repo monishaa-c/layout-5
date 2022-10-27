@@ -1,0 +1,124 @@
+.wrapper
+{
+	width:80%;
+    margin:auto;
+}
+.bootstrap
+{
+background-color:grey;
+}
+.bootstrap .bootstrap-fc
+{
+	display:flex;
+    justify-content:space-between;
+}
+.bootstrap .bootstrap-fc .start
+{
+	width:160px;
+	height:55px;
+	background-color:red;
+	
+}
+.bootstrap .bootstrap-fc .home
+{
+	width:300px;
+	height:55px;
+	background-color:red;	
+}
+.bootstrap .bootstrap-fc .cart
+{
+	width:300px;
+	height:55px;
+	background-color:red;	
+}
+.shop
+{
+	background-color:black;
+	height:300px;
+    display:flex;
+}
+.sale
+{
+	background-color:grey;
+	height:1000px;
+}
+.sale .sale-fc
+{
+	display:flex;
+	justify-content:space-between;
+	flex-direction:row;
+	flex-wrap:wrap;
+}
+.sale .sale-fc .sale-a
+{
+	height:400px;
+	width:230px;
+	background-color:black;
+	margin-top:60px;
+}
+.sale .sale-fc .sale-b
+{
+	height:400px;
+	width:230px;
+	background-color:white;
+	margin-top:60px;
+}
+.sale .sale-fc .sale-c
+{
+	height:400px;
+	width:230px;
+	background-color:black;
+	margin-top:60px;
+}
+.sale .sale-fc .sale-d
+{
+	height:400px;
+	width:230px;
+	background-color:white;
+	margin-top:60px;
+}
+.sale .sale-fc .sale-e
+{
+	height:400px;
+	width:230px;
+	background-color:black;
+	margin-top:60px;
+}
+.sale .sale-fc .sale-f
+{
+	height:400px;
+	width:230px;
+	background-color:white;
+	margin-top:60px;
+}
+.sale .sale-fc .sale-g
+{
+	height:400px;
+	width:230px;
+	background-color:black;
+	margin-top:60px;
+}
+.sale .sale-fc .sale-h
+{
+	height:400px;
+	width:230px;
+	background-color:white;
+	margin-top:60px;
+}
+.website
+{
+background-color: black;
+height:121px;
+}
+.website .website-fc
+{
+	display:flex;
+	justify-content:center;
+}
+.website .website-fc .boxe
+{
+	width:300px;
+	height:100px;
+	background-color:blue;
+	margin-top:15px;
+}
